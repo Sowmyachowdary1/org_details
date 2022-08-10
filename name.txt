@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 i am working in ctrls
 
 i am good girl
@@ -7,3 +8,11 @@ krish is good boy i love him
 
 
 qshgauyidgbasASGDKJVDX SABCDVJVSACX
+=======
+
+addded data here
+
+
+
+i am working in ctrls
+>>>>>>> de5f3ec ( commited krishg repo)
